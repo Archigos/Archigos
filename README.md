@@ -37,6 +37,7 @@ Hey, I'm AJ. I'm a disabled Veteran of the US Navy and have been tinkering with 
 
 | Project/Community | Role | Website | YouTube | Discord |
 | ----------------- | :--: | :-----: | ------- | ------- |
+| Espanso | Contributor | [🔗](https://espanso.org) |  | [![DiscordLogo](logos/discord.png)](https://discord.gg/DwFEvjPP) |
 | Techdox Community | Mod  | [🔗](https://techdox.nz) | [![YouTubeLogo](logos/youtube.png)](https://www.youtube.com/@Techdox) | [![DiscordLogo](logos/discord.png)](https://discord.gg/nv699apS) |
 | Warp Terminal App | Mod  | [🔗](https://warp.dev) | [![YouTubeLogo](logos/youtube.png)](https://www.youtube.com/@warpdotdev) | [![DiscordLogo](logos/discord.png)](https://discord.com/invite/warpdotdev) |
 | Various Twitch Streamers |  Mod  | | | |
