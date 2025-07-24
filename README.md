@@ -51,4 +51,4 @@ Hey, I'm AJ. I'm a disabled Veteran of the US Navy and have been tinkering with 
 
 I have many repositories but most are private until I get them in a state where I feel comfortable with the quality and usefulness of the code for others.
 
-<img src="logos/navy.png" height="100px" />
+<img src="logos/navy.png" alt="Navy Logo" height="100px" style="position:absolute;right:0;margin:25px;" />
